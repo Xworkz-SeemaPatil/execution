@@ -27,8 +27,8 @@ public class HotelTester {
 		hdto1.setType("north Indian");
 		hdto1.setFoodItems(20);
 		
-		hotel.addCityWardtDetails(hdto);
-		hotel.addCityWardtDetails(hdto1);
+		hotel.addHoteltDetails(hdto);
+		hotel.addHoteltDetails(hdto1);
 		
 		hotel.searchHotelbyLocationAndName(Location.RAJAJINAGAR,"hotel");
 		

@@ -8,7 +8,7 @@ public class Hotel {
 	public int index;
 	
 		
-			public void addCityWardtDetails(HotelDTO hot) {
+			public void addHoteltDetails(HotelDTO hot) {
 			
 			if( hot.getName() != null && hot.getLocation() !=null && hot.getFoodItems() != 0)
 			{
