@@ -1,0 +1,61 @@
+.body{
+    background-color: white;
+}
+
+h2{
+    color:black;
+    font-family:monospace ;
+    text-align: center;
+}
+.h3{
+
+    color:blue;
+    text-align: center;
+}
+h4{
+    color:black;
+    font: bold;
+    text-align: right;
+
+}
+
+.para{
+text-align: center;
+}
+.h22{
+    text-align: left;
+    font: bold;
+}
+h5{
+    color:black;
+    font: bold;
+
+}
+.course{
+    width: 30%;
+    height: 100%;
+    background-color: gray;
+    float:left;
+}
+.li{
+    margin:0px;
+    list-style-type: " ";
+}
+.desc{
+    width:70%;
+    height:100%;
+    float:right;
+    
+}
+.intro {
+    color:white;
+    background-color: gray;
+    text-align: center;
+    padding: 6px 0 90px 10px;
+    margin-bottom: 10px;
+}
+.nextpage{
+    width:100%;
+    height:100%;
+    
+}
